@@ -23,3 +23,11 @@ This is my personal website hosted on Hostinger. It includes the following.
 - Next.js
 - React
 - Styled Components
+
+---
+
+> Static Website Generating
+
+```bash
+npm run build
+```
