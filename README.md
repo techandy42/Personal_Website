@@ -31,3 +31,9 @@ This is my personal website hosted on Hostinger. It includes the following.
 ```bash
 npm run build
 ```
+
+---
+
+Note:
+
+- The project is largely based on a tutorial by [Javascript Mastery](https://www.youtube.com/watch?v=OPaLnMw2i_0), whose channel I highly recommend.
